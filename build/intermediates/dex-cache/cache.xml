@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.0_3092b794379184d549eebe8ce780d5228bbd86c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="672cceae26e9a8fcbd8e0eefe5fc351c50d2488a">
+        <dex dex="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-25.0.0_02dba0dc3cf49b74d933ef746cfd76c0dfa642d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_0a0f0e9335c8b10aae8a0236203ad9fd80858736.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_13947c6a1f878ca0219b14bdf0b5e67f309ce6e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_3dde7ecc69bb1c4ee7393a5266177f061f070209.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/pre-dexed/debug/volley_dc79864087de967d33c22b342cb02cb9b9993fdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ac094121e75b4b87432beb9305d70c68ec6dcab">
+        <dex dex="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v13-25.0.0_24026e0997141d571fc6cb154aa2c8794c2dfb5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_07cf995b5e273f6390e4c9819845297ddb337d36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_02e5693bc22cfe31e66d3a429bf0952b125302fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67355078cd30daae43f62ba47a4663ee6edb976e">
+        <dex dex="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_a5398a0dadfd67d44aa2ff8e48b06078da8c5d3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_dc4703a135e734e9708f8e0770f7b1c3e4565024.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_4d9e65da5e922255dd384577d0db4e48e2a0a1a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hanson/AndroidStudioProjects/MyAppPortfolio/gradle/wrapper/gradle-2.10-all_.zip/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/pre-dexed/debug/okio-1.6.0_84d8d614669810e5d9ae8151a412acef858ea5e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.0_a680dca004454095037b9f50cfc87da4e080a3d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.0.0_c2aa225ecd362190f9890b2649348b15cb5fc290.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_2345ebcf6cb6408e17b7e9977bbbbc668bb00c65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_ab6f7eaf89eaeed1e1154405f359680b1f5f687a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hanson/AndroidStudioProjects/MyAppPortfolio/gradle/wrapper/gradle-2.10-all_.zip/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/pre-dexed/debug/okhttp-3.1.2_aa205c3d76f026bf4fb4e9e092413194681cea16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_004ae4ac3b0ce5bcd1f3e8780fc721835bc07d9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.0_70c7a02261c03a78aa07fc6f7a1ec29df4399b26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hanson/Library/Android/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_a1cb42f04fabb3ddc1eb600ac97d60bed104f864.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_37d09a04ff912ffc43ce64596d87212401a24b12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_5772c1da6e83efd1506c777e36cbedcfa45b4339.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_7cf3748cc50467da15b044344b791e620acf2715.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/hanson/Desktop/XYZ-Reader-master/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_509aedd5213e028a28ab39a33c8d7924342d2a0d.jar" />
+    </item>
+
+</items>
