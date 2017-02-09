@@ -1,4 +1,4 @@
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -22,7 +22,7 @@
 
     </android.support.v4.widget.SwipeRefreshLayout>
 
-    <FrameLayout
+    <android.support.design.widget.AppBarLayout
         android:id="@+id/toolbar_container"
         android:layout_width="match_parent"
         android:layout_height="80dp"
@@ -49,7 +49,7 @@
         </android.support.v7.widget.Toolbar>
 
 
-    </FrameLayout>
+    </android.support.design.widget.AppBarLayout>
 
     <ProgressBar
         android:id="@+id/loading"
@@ -58,4 +58,4 @@
         android:layout_gravity="center"
         />
 
-</FrameLayout>
+</android.support.design.widget.CoordinatorLayout>
